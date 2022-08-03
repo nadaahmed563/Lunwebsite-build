@@ -1,59 +1,31 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g>
-	<g>
-		<path d="M331.756,277.251l-42.881,43.026c-17.389,17.45-47.985,17.826-65.75,0l-42.883-43.026L26.226,431.767
-			C31.959,434.418,38.28,436,45,436h422c6.72,0,13.039-1.58,18.77-4.232L331.756,277.251z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M467,76H45c-6.72,0-13.041,1.582-18.772,4.233l164.577,165.123c0.011,0.011,0.024,0.013,0.035,0.024
-			c0.011,0.011,0.013,0.026,0.013,0.026l53.513,53.69c5.684,5.684,17.586,5.684,23.27,0l53.502-53.681c0,0,0.013-0.024,0.024-0.035
-			c0,0,0.024-0.013,0.035-0.024L485.77,80.232C480.039,77.58,473.72,76,467,76z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M4.786,101.212C1.82,107.21,0,113.868,0,121v270c0,7.132,1.818,13.79,4.785,19.788l154.283-154.783L4.786,101.212z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M507.214,101.21L352.933,256.005L507.214,410.79C510.18,404.792,512,398.134,512,391V121
-			C512,113.866,510.18,107.208,507.214,101.21z"/>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19430" data-name="Rectangle 19430" width="20" height="20" fill="#3c3c3b" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_544" data-name="Mask Group 544" opacity="0.7" clip-path="url(#clip-path)">
+    <g id="email_1_" data-name="email (1)" transform="translate(0 2.969)">
+      <g id="Group_8487" data-name="Group 8487" transform="translate(1.024 7.861)">
+        <g id="Group_8486" data-name="Group 8486">
+          <path id="Path_12925" data-name="Path 12925" d="M13.574,17.328,11.9,19.009a1.854,1.854,0,0,1-2.568,0L7.655,17.328,1.639,23.364a1.741,1.741,0,0,0,.733.165H18.857a1.739,1.739,0,0,0,.733-.165Z" transform="translate(-1.639 -17.328)" fill="#3c3c3b"/>
+        </g>
+      </g>
+      <g id="Group_8489" data-name="Group 8489" transform="translate(1.025)">
+        <g id="Group_8488" data-name="Group 8488">
+          <path id="Path_12926" data-name="Path 12926" d="M18.857,4.75H2.373a1.74,1.74,0,0,0-.733.165l6.429,6.45h0l2.09,2.1a.7.7,0,0,0,.909,0l2.09-2.1h0l6.429-6.45A1.739,1.739,0,0,0,18.857,4.75Z" transform="translate(-1.639 -4.75)" fill="#3c3c3b"/>
+        </g>
+      </g>
+      <g id="Group_8491" data-name="Group 8491" transform="translate(0 0.985)">
+        <g id="Group_8490" data-name="Group 8490">
+          <path id="Path_12927" data-name="Path 12927" d="M.187,6.326A1.736,1.736,0,0,0,0,7.1V17.646a1.736,1.736,0,0,0,.187.773l6.027-6.046Z" transform="translate(0 -6.326)" fill="#3c3c3b"/>
+        </g>
+      </g>
+      <g id="Group_8493" data-name="Group 8493" transform="translate(13.786 0.985)">
+        <g id="Group_8492" data-name="Group 8492">
+          <path id="Path_12928" data-name="Path 12928" d="M28.085,6.326l-6.027,6.047,6.027,6.046a1.736,1.736,0,0,0,.187-.773V7.1A1.736,1.736,0,0,0,28.085,6.326Z" transform="translate(-22.058 -6.326)" fill="#3c3c3b"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
