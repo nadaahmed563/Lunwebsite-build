@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="624" height="752" viewBox="0 0 624 752">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19977" data-name="Rectangle 19977" width="24" height="24" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_19979" data-name="Rectangle 19979" width="64" height="64" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9488" data-name="Group 9488" transform="translate(-160 -98.46)">
+    <line id="Line_25" data-name="Line 25" y2="535.5" transform="translate(604.5 196.96)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <line id="Line_24" data-name="Line 24" x1="31" transform="translate(605 197.46)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <rect id="Rectangle_19974" data-name="Rectangle 19974" width="138" height="208" rx="10" transform="translate(646 133.46)" fill="#b94191"/>
+    <g id="Ellipse_299" data-name="Ellipse 299" transform="translate(632 190.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="7" cy="7" rx="7" ry="7" stroke="none"/>
+      <ellipse cx="7" cy="7" rx="6.5" ry="6.5" fill="none"/>
+    </g>
+    <g id="Ellipse_300" data-name="Ellipse 300" transform="translate(444 426.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="7" cy="7" rx="7" ry="7" stroke="none"/>
+      <ellipse cx="7" cy="7" rx="6.5" ry="6.5" fill="none"/>
+    </g>
+    <g id="Ellipse_302" data-name="Ellipse 302" transform="translate(399 283.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="4.5" cy="4.5" rx="4.5" ry="4.5" stroke="none"/>
+      <ellipse cx="4.5" cy="4.5" rx="4" ry="4" fill="none"/>
+    </g>
+    <g id="Ellipse_307" data-name="Ellipse 307" transform="translate(474 122.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="4.5" cy="4.5" rx="4.5" ry="4.5" stroke="none"/>
+      <ellipse cx="4.5" cy="4.5" rx="4" ry="4" fill="none"/>
+    </g>
+    <g id="Ellipse_304" data-name="Ellipse 304" transform="translate(424 123.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="4.5" cy="4.5" rx="4.5" ry="4.5" stroke="none"/>
+      <ellipse cx="4.5" cy="4.5" rx="4" ry="4" fill="none"/>
+    </g>
+    <g id="Group_9307" data-name="Group 9307" transform="translate(593.601 513.261)">
+      <line id="Line_26" data-name="Line 26" y1="22.797" x2="22.797" fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="2.693"/>
+      <line id="Line_27" data-name="Line 27" x2="22.797" y2="22.797" transform="translate(0 0)" fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="2.693"/>
+    </g>
+    <g id="Rectangle_19975" data-name="Rectangle 19975" transform="translate(547 739.46)" fill="#fbba00" stroke="#fff" stroke-width="3">
+      <rect width="115" height="111" rx="5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="112" height="108" rx="3.5" fill="none"/>
+    </g>
+    <text id="AI" transform="translate(626 813.46)" fill="#fff" font-size="48" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="-42.096" y="0">AI</tspan></text>
+    <line id="Line_28" data-name="Line 28" x1="407" transform="translate(197.5 524.46)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <line id="Line_29" data-name="Line 29" y2="177" transform="translate(198 524.46)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <g id="Rectangle_19976" data-name="Rectangle 19976" transform="translate(160 715.46)" fill="#07f" stroke="#fff" stroke-width="3">
+      <rect width="76" height="67" rx="5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="73" height="64" rx="3.5" fill="none"/>
+    </g>
+    <g id="Rectangle_19978" data-name="Rectangle 19978" transform="translate(372 292.46)" fill="#31b7bc" stroke="#fff" stroke-width="3">
+      <rect width="153" height="134" rx="5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="150" height="131" rx="3.5" fill="none"/>
+    </g>
+    <g id="Ellipse_301" data-name="Ellipse 301" transform="translate(191 701.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="7" cy="7" rx="7" ry="7" stroke="none"/>
+      <ellipse cx="7" cy="7" rx="6.5" ry="6.5" fill="none"/>
+    </g>
+    <g id="Ellipse_303" data-name="Ellipse 303" transform="translate(597 725.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="7" cy="7" rx="7" ry="7" stroke="none"/>
+      <ellipse cx="7" cy="7" rx="6.5" ry="6.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_588" data-name="Mask Group 588" transform="translate(186 737.46)" clip-path="url(#clip-path)">
+      <path id="project-management" d="M24,0H7.451V10.4a.89.89,0,0,1,.733.874v.241h2.035V11.27a.89.89,0,0,1,.89-.889h.543a.89.89,0,0,1,.89.889v.241h.56a1.475,1.475,0,0,1,1.519,1.422V23.376a1.341,1.341,0,0,1-.154.624H24ZM0,23.376V15.2H13.822v8.18A.686.686,0,0,1,13.1,24H.721A.678.678,0,0,1,0,23.376Zm7.293-12.2a.091.091,0,0,1,.091.089v1.577a.091.091,0,0,1-.091.089H6.751a.091.091,0,0,1-.091-.089V11.27a.091.091,0,0,1,.091-.089Zm4.358,1.756h-.543a.091.091,0,0,1-.091-.089V11.27a.091.091,0,0,1,.091-.089h.543a.091.091,0,0,1,.091.089v1.577A.091.091,0,0,1,11.652,12.937ZM5.861,12.31v.537a.89.89,0,0,0,.89.889h.543a.89.89,0,0,0,.89-.889V12.31h2.035v.537a.89.89,0,0,0,.89.889h.543a.89.89,0,0,0,.89-.889V12.31h.56a.677.677,0,0,1,.72.622V14.4H0V12.933a.677.677,0,0,1,.72-.622H1.5v.537a.89.89,0,0,0,.89.889h.543a.89.89,0,0,0,.89-.889V12.31Zm-2.835.537a.091.091,0,0,1-.091.089H2.393a.091.091,0,0,1-.091-.089V11.27a.091.091,0,0,1,.091-.089h.543a.091.091,0,0,1,.091.089Zm-.563,9.127V20.723H3.717v1.251Zm-.4-2.051a.4.4,0,0,0-.4.4v2.051a.4.4,0,0,0,.4.4H4.116a.4.4,0,0,0,.4-.4V20.324a.4.4,0,0,0-.4-.4Zm.4-1.451V17.221H3.717v1.251Zm-.4-2.051a.4.4,0,0,0-.4.4v2.051a.4.4,0,0,0,.4.4H4.116a.4.4,0,0,0,.4-.4V16.822a.4.4,0,0,0-.4-.4ZM6.32,21.975V20.723H7.572v1.251Zm-.4-2.051a.4.4,0,0,0-.4.4v2.051a.4.4,0,0,0,.4.4H7.971a.4.4,0,0,0,.4-.4V20.324a.4.4,0,0,0-.4-.4ZM10.1,21.975V20.723h1.253v1.251Zm-.4-2.051a.4.4,0,0,0-.4.4v2.051a.4.4,0,0,0,.4.4h2.052a.4.4,0,0,0,.4-.4V20.324a.4.4,0,0,0-.4-.4ZM6.32,18.473V17.221H7.572v1.251Zm-.4-2.051a.4.4,0,0,0-.4.4v2.051a.4.4,0,0,0,.4.4H7.971a.4.4,0,0,0,.4-.4V16.822a.4.4,0,0,0-.4-.4ZM10.1,18.473V17.221h1.253v1.251Zm-.8-1.651v2.051a.4.4,0,0,0,.4.4h2.052a.4.4,0,0,0,.4-.4V16.822a.4.4,0,0,0-.4-.4H9.7A.4.4,0,0,0,9.305,16.822ZM14.222,4.6h-5.2a.4.4,0,0,1,0-.8h5.2a.4.4,0,1,1,0,.8Zm0-2.147h-5.2a.4.4,0,0,1,0-.8h5.2a.4.4,0,1,1,0,.8Zm2.549,15.954,1.929,1.75.642-.641a.4.4,0,1,1,.565.566l-.911.91a.4.4,0,0,1-.551.013l-.743-.674v1.216h3.845V18.052H17.3a.4.4,0,0,1,0-.8h4.644a.4.4,0,0,1,.4.4v4.294a.4.4,0,0,1-.4.4H17.3a.4.4,0,0,1-.4-.4V19.606L16.234,19a.4.4,0,0,1,.537-.592Zm5.175-3.861H17.3a.4.4,0,0,1-.4-.4v-2.34l-.668-.607a.4.4,0,0,1,.537-.592L18.7,12.359l.642-.642a.4.4,0,0,1,.565.565L19,13.194a.4.4,0,0,1-.551.013l-.743-.675v1.215h3.845v-3.5H17.3a.4.4,0,0,1,0-.8h4.644a.4.4,0,0,1,.4.4v4.294a.4.4,0,0,1-.4.4Zm0-7.8H17.3a.4.4,0,0,1-.4-.4V4.008L16.233,3.4a.4.4,0,0,1,.537-.592L18.7,4.56l.642-.641a.4.4,0,0,1,.565.566L19,5.395a.4.4,0,0,1-.551.013L17.7,4.733V5.95h3.845v-3.5H17.3a.4.4,0,1,1,0-.8h4.644a.4.4,0,0,1,.4.4v4.3a.4.4,0,0,1-.4.4Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Mask_Group_587" data-name="Mask Group 587" transform="translate(416 327.46)" clip-path="url(#clip-path-2)">
+      <g id="multiple-users-silhouette" transform="translate(0 5.07)">
+        <path id="Path_13838" data-name="Path 13838" d="M25.379,14.314a11.629,11.629,0,0,0-5.412,8.64,9.382,9.382,0,1,1,5.412-8.64Zm6.149,19.218a9.386,9.386,0,1,1,9.388-9.386A9.386,9.386,0,0,1,31.528,33.533Zm-3.982.64h7.965A12.032,12.032,0,0,1,47.529,46.191v9.74l-.025.153-.671.21a54.705,54.705,0,0,1-16.341,2.635c-8.833,0-13.953-2.518-14.268-2.679l-.627-.317h-.067V46.191A12.029,12.029,0,0,1,27.546,34.172Zm-15.529-9.69h7.9a11.568,11.568,0,0,0,3.57,8.057,14.281,14.281,0,0,0-10.2,13.666v3c-7.8-.286-12.3-2.5-12.6-2.646l-.627-.318H0V36.5A12.031,12.031,0,0,1,12.017,24.483ZM48,23.844a9.324,9.324,0,0,1-4.992-1.449,11.616,11.616,0,0,0-4.367-7.409c-.01-.176-.026-.35-.026-.527A9.386,9.386,0,1,1,48,23.844Zm-8.43,8.7a11.575,11.575,0,0,0,3.568-8.013c.293-.022.583-.045.882-.045h7.964A12.031,12.031,0,0,1,64,36.5v9.742l-.025.15L63.3,46.6A56.348,56.348,0,0,1,49.77,49.147V46.206A14.283,14.283,0,0,0,39.569,32.54Z" transform="translate(0 -5.07)" fill="#fff"/>
+      </g>
+    </g>
+    <line id="Line_30" data-name="Line 30" y2="89.5" transform="translate(451.5 439.96)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <g id="Group_9308" data-name="Group 9308" transform="translate(403.5 127.96)">
+      <line id="Line_31" data-name="Line 31" y2="83.5" transform="translate(0 72)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+      <line id="Line_32" data-name="Line 32" x2="124" transform="translate(0 70)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+      <line id="Line_33" data-name="Line 33" y2="75" transform="translate(124)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    </g>
+    <line id="Line_34" data-name="Line 34" x1="48" transform="translate(479.5 127.96)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <g id="Rectangle_19980" data-name="Rectangle 19980" transform="translate(418 98.46)" fill="#ffaa2e" stroke="#fff" stroke-width="1">
+      <rect width="56" height="56" stroke="none"/>
+      <rect x="0.5" y="0.5" width="55" height="55" fill="none"/>
+    </g>
+    <line id="Line_35" data-name="Line 35" x1="126" transform="translate(273 197.46)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 8"/>
+    <g id="Ellipse_305" data-name="Ellipse 305" transform="translate(259 190.46)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="7" cy="7" rx="7" ry="7" stroke="none"/>
+      <ellipse cx="7" cy="7" rx="6.5" ry="6.5" fill="none"/>
+    </g>
+    <text id="B2b" transform="translate(446 134.46)" fill="#fff" font-size="20" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="-17.11" y="0">B2b</tspan></text>
+  </g>
+</svg>
