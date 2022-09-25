@@ -113,6 +113,8 @@
     "_comment": "----------------------------------About Us Page-----------------------------------------",
 
     "iCC-rectanglegreen":"iCC-rectanglegreen",
+    "uCC-gap-24":"uCC-gap-24",
+    "CC-width-holder":"CC-width-holder",
     "CC-rectangleone-holder-AR":"CC-rectangleone-holder-AR",
     "CC-rectangletwo-holder-AR":"CC-rectangletwo-holder-AR",
     "What is Lun Startup Studio":"ماهو لون ستوديو",
@@ -195,6 +197,7 @@
 
 
     "Join our team now":"انضم لفريقنا الان",
+    "CC-width-text-holder":"CC-width-text-holder",
     "Headline-circle-holder-AR":"Headline-circle-holder-AR",
     "Why Lun":"لماذا لون",
     "studio?":"ستوديو ؟",

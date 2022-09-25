@@ -111,6 +111,8 @@
    "_comment": "----------------------------------About Us Page-----------------------------------------",
 
    "What is Lun Startup Studio":"What is Lun Studio",
+   "uCC-gap-24":"uCC-gap-16",
+   "CC-width-holder":"CC-width-holder-EN",
    "iCC-rectanglegreen":"iCC-rectanglegreen-EN",
    "CC-rectangleone-holder-AR":"CC-rectangleone-holder-EN",
    "CC-rectangletwo-holder-AR":"CC-rectangletwo-holder-EN",
@@ -192,6 +194,7 @@
    "_comment": "----------------------------------Join Us Page-----------------------------------------",
 
    "Join our team now":"Join our team now",
+   "CC-width-text-holder":"CC-width-text-holder-EN",
    "Headline-circle-holder-AR":"Headline-circle-holder-EN",
    "Why Lun":"Why Lun",
    "studio?":"studio?",
