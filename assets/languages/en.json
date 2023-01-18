@@ -1,6 +1,6 @@
 {
    "closeBtn-AR":"closeBtn-EN",
-   
+
    "_comment": "-----------------------------Home Page First Section-------------------------------------",
    "contactUs" : "Contact Us" ,
    "Home" : "Home",
@@ -53,7 +53,7 @@
    "inTheirEarlyStagesAndReadyToEnterTheMarket,inOrderToEncourage":"in their early stages and ready to enter the market, in order to encourage",
    "entrepreneursToImplementTheLargestPossibleNumberOfEmergingProjects":"entrepreneurs to implement the largest possible number of emerging projects",
    "andIncreaseTheirSuccessAndGrowth.":"and increase their success and growth.",
-   
+
    "_comment": "----------------------------------Home Page Final Projects Section-----------------------------------------",
 
    "morabaa’Application":"Morabaa’ application",
@@ -81,7 +81,7 @@
    "theNameOfTheIdeaMustBeAtLeast10Characters":"The name of the idea must be at least 10 characters",
    "ideaDescription":"Idea Description",
    "theDescriptionOfTheIdeaMustBeAtLeast10Characters" : "The description of the idea must be at least 10 characters",
-    
+
    "_comment": "----------------------------------Footer-----------------------------------------",
 
    "lunStartupStudioIsAnEntityThatAimsTheCreationOfStartupTechnologyCompaniesContinuouslyAndFrequentlyThroughTheSharingAndUseOfHuman,Technical,Financial,AndManagerialResources" : "Lun Startup Studio is an entity that aims the creation of startup technology companies continuously and frequently through the sharing and use of human, technical, financial, and managerial resources.",
@@ -92,7 +92,7 @@
    "egyptAddress":"10 Mostafa El Nahas Street - Above Ceramic Gawhara - Nasr City",
    "KSAAddress":"Kingdom of Saudi Arabia - Riyadh Olaya Street - Riyadh Olaya Center",
    "iCC-phone-call":"iCC-phone-call-EN",
- 
+
    "_comment": "----------------------------------Sub Footer-----------------------------------------",
 
    "allRightsReservedToLunStudio2022©":"All Copy Rights Reserved To LUN Studio 2022©",
@@ -137,7 +137,7 @@
    "To be your ideal choice for leadership and quality in presenting technical, training, and advisory services.":"To be your ideal choice for leadership and quality in presenting technical, training, and advisory services.",
    "Lun Startup Studio seeks to be a leader in supporting entrepreneurs and enhancing their success":"Lun Startup Studio seeks to be a leader in supporting entrepreneurs and enhancing their success",
    "by incubating their creative ideas to be a building block in building an advanced technological society.":"by incubating their creative ideas to be a building block in building an advanced technological society.",
-   
+
    "_comment": "----------------------------------How We Work Page-----------------------------------------",
 
    "How we work":"How it works",
@@ -241,6 +241,10 @@
    "write your comment" : "write your comment",
 
 
-   "966563667455+":"+966563667455"
+   "966563667455+":"+966563667455",
+
+   "No Jobs Available":"No Jobs Available",
+   "Egypt":"Egypt",
+   "Saudi Arabia":"Saudi Arabia"
 
 }

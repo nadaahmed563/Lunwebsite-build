@@ -5,7 +5,7 @@
 
     "contactUs" :"تواصل معنا",
     "Home" : "الصفحة الرئيسية",
-    "aboutUs": "من نحن" , 
+    "aboutUs": "من نحن" ,
     "Criteria": "كيف نعمل",
     "Projects":"اعمالنا",
     "Careers":"الوظائف",
@@ -85,7 +85,7 @@
     "theNameOfTheIdeaMustBeAtLeast10Characters":"اسم الفكرة يجب أن لا يقل عن 10 حروف",
     "ideaDescription":"نبذة عن الفكرة",
     "theDescriptionOfTheIdeaMustBeAtLeast10Characters":"وصف الفكرة يجب أن لا يقل عن 10 حروف",
-     
+
     "_comment": "----------------------------------Footer-----------------------------------------",
 
     "lunStartupStudioIsAnEntityThatAimsTheCreationOfStartupTechnologyCompaniesContinuouslyAndFrequentlyThroughTheSharingAndUseOfHuman,Technical,Financial,AndManagerialResources" : "لـــــــون ستوديــو هو كيان يهدف لصناعــة الشركــات التقنيــة الناشئــة بشكـل مستمر ومتكرر مــن خـلال مشاركة وتسخير الموارد البشرية والتقنية والمالية والإدارية",
@@ -237,7 +237,7 @@
     "Let us become your partner in making your idea come true":"دعنا نصبح شريك لك في فكرتك لتصبح حقيقة",
     "iCC-phonegreen":"iCC-phonegreen",
 
-     
+
     "_comment": "----------------------------------Rating Popup-----------------------------------------",
 
     "We are glad to have you rate us":"يسعدنا تقيمك لنا",
@@ -245,5 +245,9 @@
     "write your comment":"اكتب تعليقك",
 
 
-    "966563667455+":"966563667455+"
+    "966563667455+":"966563667455+",
+
+    "No Jobs Available":"لا توجد وظائف متاحة",
+    "Egypt": "مصر",
+    "Saudi Arabia": "السعودية"
 }
