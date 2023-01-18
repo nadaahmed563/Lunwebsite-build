@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19467" data-name="Rectangle 19467" width="32" height="32" transform="translate(158 48)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_554" data-name="Mask Group 554" transform="translate(-158 -48)" clip-path="url(#clip-path)">
+    <g id="THR_money_in_envelope_" data-name="THR (money in envelope)" transform="translate(157.318 47.311)">
+      <path id="Path_12933" data-name="Path 12933" d="M.7,15.988C.7,31.858.6,30.877.9,31.482l9.294-9.3Z" fill="#fff"/>
+      <path id="Path_12934" data-name="Path 12934" d="M16.683,26.415l-5.29-3.476L1.884,32.462c.612.3-1.759.209,28.7.209a2.148,2.148,0,0,0,.9-.2l-9.509-9.53Z" fill="#fff"/>
+      <path id="Path_12935" data-name="Path 12935" d="M23.169,22.181l9.3,9.3c.285-.626.2.361.2-15.494Z" fill="#fff"/>
+      <path id="Path_12936" data-name="Path 12936" d="M24.329,19.769V.7H9.037V19.769l7.646,4.984ZM11.122,4.866a.7.7,0,0,1,.7-.7.7.7,0,0,0,.7-.7.7.7,0,0,1,.7-.7h6.951a.7.7,0,0,1,.7.7.7.7,0,0,0,.7.7.7.7,0,0,1,.7.7V9.037a.7.7,0,1,1-1.39,0V5.443a2.085,2.085,0,0,1-1.272-1.272h-5.8a2.085,2.085,0,0,1-1.272,1.272V9.037a.7.7,0,0,1-1.39,0Zm0,10.427a5.561,5.561,0,1,1,5.561,5.561A5.561,5.561,0,0,1,11.122,15.293Z" fill="#fff"/>
+      <circle id="Ellipse_35" data-name="Ellipse 35" cx="4.171" cy="4.171" r="4.171" transform="translate(12.512 11.122)" fill="#fff"/>
+      <path id="Path_12937" data-name="Path 12937" d="M32.115,4.942l-6.4-1.71V5.387l1.828.487a.7.7,0,0,1,.494.855.7.7,0,0,0,.487.855.7.7,0,0,1,.494.848l-1.077,4.025A.7.7,0,0,1,26.6,12.1l.931-3.476a2.134,2.134,0,0,1-.9-1.557l-.911-.236V18.859l3.232-2.085Z" fill="#fff"/>
+      <path id="Path_12938" data-name="Path 12938" d="M4.414,16.759l3.232,2.085V6.826l-.911.243a2.134,2.134,0,0,1-.9,1.557L6.771,12.1a.7.7,0,0,1-1.349.361L4.345,8.432a.7.7,0,0,1,.521-.848.7.7,0,0,0,.487-.855.7.7,0,0,1,.494-.855l1.8-.487V3.232l-6.4,1.71Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
